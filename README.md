@@ -14,21 +14,22 @@
 11. What is Object Oriented Programming 
 
 
-#2 (48:34) Java Basics 📜
-#2.1 (49:49) Installing JDK 🔃
-#2.2 (55:13) First Class using Text Editor 💬
-#2.3 (1:05:30) Compiling and Running 🎁
-#2.4 (1:06:09) Anatomy of a Class 🧾
-#2.5 (1:12:07) File Extensions 🍱
-#2.6 (1:13:33) JDK vs JVM vs JRE 👪
-#2.7 (1:22:08) Showing Output 🦸‍♂️
-#2.8 (1:27:30) Importance of the main method 👻
-#2.9 (1:34:09) Installing IDE(Intellij Idea) 💊
-#2.10 (1:48:30) Project Structure 🖨️
-#2 (1:50:49) Programming Challenge 1-3 🙅‍♂️
-#2 (2:10:10) Practice Exercise 🙅‍♂️
 
-#3 (2:14:00) Data Types, Variables & Input 🏬
+****02. Java Basics ****
+#2.1 Installing JDK 🔃
+#2.2 First Class using Text Editor 💬
+#2.3 Compiling and Running 🎁
+#2.4 Anatomy of a Class 🧾
+#2.5 File Extensions 🍱
+#2.6 JDK vs JVM vs JRE 👪
+#2.7 Showing Output 🦸‍♂️
+#2.8 Importance of the main method 👻
+#2.9 Installing IDE(Intellij Idea) 💊
+#2.1 Project Structure 🖨️
+#2 ( Programming Challenge 1-3 🙅‍♂️
+#2 Practice Exercise 🙅‍♂️
+
+**03. Data Types, Variables & Input **
 #3.1 (2:14:31) Variables 🖨️
 #3.2 (2:28:10) Data Types 🚚
 #3.3 (2:45:27) Naming Conventions ⚠️
@@ -42,7 +43,7 @@
 #3 (3:39:12) Practice Exercise 🙅‍♂️
 
 
-#4 (3:42:45) Operators, If-else, Number System 🏬
+**04.  Operators, If-else, Number System **
 #4.1 (3:45:22) Assignment Operator 🦅 
 #4 (3:53:37) Programming Challenge 7 🙅‍♂️
 #4.2 (4:04:02) Arithmetic Operators ☎️
