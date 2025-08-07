@@ -55,16 +55,46 @@
 #4.7 (5:36:25) Relational Operators ➰
 #4.8 (5:47:46) Logical Operators ☕
 #4 (5:55:30) Programming Challenge 15-20 🙅‍♂️
-#4.9 (6:38:40) Operator Precedence 📖
+#4.9 (6:38:40) Operator Precedence 
 
-
+Operator Precedence: Dertermines the evaluation order of operators in an expression based on their priority levels.
+Associativity: Defines the orfer of operation for operators with the same preccedence, usuallu left-to-right or right-to-left.
 
 #4.10 (6:41:48) Intro to Number System 📖
+Decimal Number system:
+: Decimal Number is base on a base-10 system that has ten digits: 1,2,3,4,5,6,7,8,9.
+: The decimal number system is said to be of basem, or radix, 10 because it uses 10 digits abd the coefficients are multiplied by powers of 10.
+: This is the base that we often use in our day to day life.
+: Example:(7,392)10, where 7392 is a shorthand notation for what should be  write
+Binary Number System:
+: The coefficient of the binary number system have only two possible values: 0 and 1
+: Each coefficient aj is multiplied by a power of the radix, e.g, 2j, and the results are added to obtain the decimal equivalent of the number.  
+
 #4.11 (6:51:48) Intro to Bitwise Operators 👨‍💻
+  1. AND Operator(&): performs on two integers. Each bit of the output is 1 if the corresponding bits of both operands are 1, otherwise 0.
+  2. OR operatprs(|): Performs on both integers. Each bit of the output is 0 if the corresponding bits of both operands are 0, otherwise 1.
+  3. XOR operator(^): performs on two integers.Each bit of the output is 1 if the corresponding bits of the operands are different.
+  4. NOT operator(~): Performs a bitwise complement. it inverts the bits of its operand(0 becomes 1, and 1 becomes 0).
+  5. Left Shift Operator(<<): Shifts the left operand'S bits to the left by the number of positions specified by the right operand,filling the new rightmost bits with zeros.
+  6. Right Shift Operator(>>): Shifts the left operand's bits to the right. If the left operand is positive, zeros are filled into the new leftmost bits; if negative, ones are filled in.
+
 #4 (6:58:15) Programming Challenge 21-27 🙅‍♂️
 #4 (7:21:00) Practice Exercise 🙅‍♂️
 
+#5 (7:24:37) While Loop, Methods & Arrays 🖼️
 
+
+
+
+#5.1 (7:25:02) Comments 📐
+#5.2 (7:32:23) While Loop 📞
+#5.3 (7:46:13) Methods ➿
+#5.4 (8:22:55) Return statement x
+#5.5 (8:36:42) Arguments 🚩
+#4 (8:50:23) Programming Challenge 28-39 🙅‍♂️
+#5.6 (11:02:13) Arrays 🧮 
+#5.7 (11:39:36) 2D Arrays ⌨️ 
+#5 (11:56:53) Programming Challenge 40-50 🙅‍♂️
 
 
 
