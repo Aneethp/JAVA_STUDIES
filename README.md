@@ -81,14 +81,90 @@ Binary Number System:
 #4 (6:58:15) Programming Challenge 21-27 🙅‍♂️
 #4 (7:21:00) Practice Exercise 🙅‍♂️
 
-#5 (7:24:37) While Loop, Methods & Arrays 🖼️
-
-
-
+**5. (7:24:37) While Loop, Methods & Arrays 🖼️**
 
 #5.1 (7:25:02) Comments 📐
-#5.2 (7:32:23) While Loop 📞
+
+#5.2 While Loop 📞
+
+
+
+
+
+
 #5.3 (7:46:13) Methods ➿
+☕ Java Methods & Functions — Fun Cheat Sheet 🎯
+1️⃣ What is a Method?
+A method = a block of code that performs a specific task.
+Think of it like a vending machine: you call it, give it what it needs, and it gives you something back 🍫.
+
+2️⃣ Basic Syntax
+java
+Copy
+Edit
+returnType methodName(parameters) {
+    // code to execute
+    return value; // optional if returnType is void
+}
+Example:
+
+java
+Copy
+Edit
+int addNumbers(int a, int b) {
+    return a + b;
+}
+3️⃣ Types of Methods
+Built-in methods → Already in Java (e.g., Math.sqrt(), System.out.println()).
+
+User-defined methods → You create them 💡.
+
+4️⃣ Method Parameters
+Parameters are like ingredients you give the method 🥣.
+
+Example:
+
+java
+Copy
+Edit
+void greetUser(String name) {
+    System.out.println("Hello, " + name + "!");
+}
+5️⃣ Return Type
+void → returns nothing 🙅‍♀️
+
+int, String, boolean, etc. → returns a value ✅
+Example:
+
+java
+Copy
+Edit
+String getGreeting() {
+    return "Good Morning!";
+}
+6️⃣ Method Overloading
+Multiple methods with the same name but different parameters 🌀.
+
+java
+Copy
+Edit
+int add(int a, int b) { return a + b; }
+double add(double a, double b) { return a + b; }
+7️⃣ Static vs Instance Methods
+Static method → Belongs to the class, call without creating an object
+ClassName.methodName();
+
+Instance method → Needs an object to call
+objectName.methodName();
+
+8️⃣ Why Use Methods?
+✅ Avoid repeating code
+✅ Make code cleaner & easier to understand
+✅ Reuse logic anytime
+
+
+
+
 #5.4 (8:22:55) Return statement x
 #5.5 (8:36:42) Arguments 🚩
 #4 (8:50:23) Programming Challenge 28-39 🙅‍♂️
