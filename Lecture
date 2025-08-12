@@ -1,0 +1,90 @@
+
+
+4. Operators, If-else & Numbers system:
+
+
+
+4.1 Assignment Operator:
+	Assigns the right-hand operator’s value to the left-hand operator.
+4.2 Arthmetic Operators:
+
+
+4.3 Order of Operation
+
+
+
+4.4 ShortHand Operators:
+
+
+
+4.5 Unary Operator
+
+
+
+
+What is syntax?
+Structure of words in sentence.Rules of language. For programming exact syntax must be followed.
+
+
+History of Java?
+Real name = Oak
+First release = 1995
+Intro = “Write Once, Rub Anywhere"
+Developed with a vision of backward compatibility.Should not break with new version release.
+
+JAVA is ROBUST:
+Java is robust due to its strong Memory management, e xception handling, and type checking mechanisms which helps to preventing system crashes and ensuring 
+
+
+JAVA is Multithreaded:
+Multithreading in programming is the ability of a CPU to execute multiple threads concurrently, allowing for more effective processing and task management.
+
+JAVA is Architecture Neutral:
+Java is Architecture Neutral because its compiled code (bytecode) can run on any device with a Java Virtual Machine(JVM), regardless of the underlying hardware architecture.
+
+Interpreted and high performance:
+Java combines high performance with interpretability, as its bytecode is interpreted by the virtual machine(JVM), which employs just-in-time(JIT) compilation for efficient and fast execution.
+
+Distributed:
+Java is inherently distributed, designed to facilitate network-based application development and interaction, seamlessly integrating with internet protocols and remote method invocation.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Object Oriented Programming:
+  
+}
+
+{2025/08/05
+
+
+
+
+
+
+
+2.5 File Extensions:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
