@@ -1,5 +1,6 @@
 # JAVA_STUDIES
 
+****1. Introduction****
 **01. Introduction:**
 Java is a high-level, object-oriented programming language that was first released by Sun Microsystems in 1995 (now owned by Oracle).
 
@@ -128,23 +129,16 @@ d) Abstraction
 > Better organization of code
 
 
+** 07. Programming Challenge 1-3**
+1. Create a class to output "good morning" and check the output.
+2. Create a new project and output "Hello there" on the console.
+3. Show the following pattern.
+   *          * * * *           *
+   * *        * * *           * *
+   * * *      * *           * * *
+   * * * *    *           * * * *
 
-
-
-****02. Java Basics ****
-#2.1 Installing JDK 🔃
-#2.2 First Class using Text Editor 💬
-#2.3 Compiling and Running 🎁
-#2.4 Anatomy of a Class 🧾
-#2.5 File Extensions 🍱
-#2.6 JDK vs JVM vs JRE 👪
-#2.7 Showing Output 🦸‍♂️
-#2.8 Importance of the main method 👻
-#2.9 Installing IDE(Intellij Idea) 💊
-#2.1 Project Structure 🖨️
-#2 ( Programming Challenge 1-3 🙅‍♂️
-#2 Practice Exercise 🙅‍♂️
-
+****2. Java Basics ****
 **03. Data Types, Variables & Input **
 #3.1 (2:14:31) Variables 🖨️
 #3.2 (2:28:10) Data Types 🚚
