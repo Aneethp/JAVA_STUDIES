@@ -169,7 +169,7 @@ d) Abstraction
 7. Creating First project
 
 2.1 Compiling and running
-
+<img width="1294" height="491" alt="image" src="https://github.com/user-attachments/assets/29ac2acb-8341-469d-b446-9dc4f9ee1edf" />
 
 
 
