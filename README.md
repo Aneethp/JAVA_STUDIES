@@ -3,9 +3,20 @@
 ****1. Introduction****
 **01. Introduction:**
 Java is a high-level, object-oriented programming language that was first released by Sun Microsystems in 1995 (now owned by Oracle).
+Included Topics:
+1. Why you must learn java
+2. what is a programming language
+3. what is algorithim
+4. what is syntax
+5. History of java
+6. Magic of byte code
+7. how java changed the internet
+8. Java buzzwords
+9. Object oriented programming
+    
 
 
-**02. Why you must learn Java**
+**1. Why you must learn Java**
 Stable and Future-Proof:
 Java has been around since 1995 and is still evolving.
 Many critical systems depend on Java — they won’t disappear anytime soon.
@@ -13,6 +24,66 @@ Many critical systems depend on Java — they won’t disappear anytime soon.
 If you want to become a backend developer, mobile developer (Android), or cloud engineer, Java is a strong choice.
  Widely Used in the Real World:
 Java is everywhere: Android apps, banking systems, e-commerce platforms, enterprise software, cloud computing, IoT.Big companies like Google, Amazon, Netflix, and banks still heavily use Java.
+In points:
+1. One of the most popular language. java currently runs on 60,00,00,00,000 devices.
+2. wide usage(web-apps,backend,mobile apps, enterprise software)
+3. highly paying and a lots of jobs
+4. Object oriented
+5. Rich APIs and community support
+
+1.2 What is programming language?
+>Giving instruction to a computer
+>Instructions: Tells computer to what to do.
+>There instruction are called code.
+>Human instructions are given in High level language
+Compiler converts high level language to a low level languages or machine codes.
+
+1.3 What is an algorithm?
+An algorithm is a step-by step procedure for solving a proble, or performing a task.
+
+1.4 what is syntax?
+> Structure of words in a sentence.
+> Rules of the language.
+> For programming exact syntax must be followed.
+
+1.5 history of java
+Developed by James Gosling at sun Microsystem (Early 1990s).
+Originally named 'Oak', later renamed java in 1995.
+First Realese(1995):Introduced "Write once,Run anywhere" concept with cross-platform compatibility.
+Developed with vision of backward compatibility. should not break with new version release.
+<img width="1437" height="807" alt="image" src="https://github.com/user-attachments/assets/14f621ae-c87f-49eb-bc11-d248d5c016a4" />
+
+1.6 Magic of bytecode
+<img width="1134" height="608" alt="image" src="https://github.com/user-attachments/assets/29d771aa-a7e3-4f2c-a521-805b87968bcb" />
+
+1.7 How Java Changed the internet
+> Portability with write once and run anywhere
+> Security because of the code running on virtual machine
+
+1.8 java buzzwords
+>Robust: Java is robust due to its strong memory management, exception handling and type checking mechanisms, whic helps in preventong system crashing and ensuring reliabile preformance.
+>Multithreaded: Multithreading in programming is the ability of a CPU to execute multiple threads concurrently, allowing for more efficient processing and task management.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 **03. What is the programming language**
